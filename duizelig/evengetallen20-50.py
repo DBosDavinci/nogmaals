@@ -1,5 +1,5 @@
-x = 20
+x = 22
 
-while x >= 20 and x <= 50:
+while x >= 22 and x <= 48:
     print(x)
     x = x + 2
